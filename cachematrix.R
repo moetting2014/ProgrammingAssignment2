@@ -1,3 +1,4 @@
+## 2/20/15
 ## Below are 2 functions. The first function, 'makeCacheMatrix', accepts as an input a matrix and 
 ## creates a list of 4 elements that store various aspects of the inputted matrix. 
 ## The second function, 'cacheSolve', receives as inputs, the various aspects of the inputted 
